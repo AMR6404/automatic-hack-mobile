@@ -5,3 +5,7 @@
 - `git clone https://github.com/AMR6404/automatic-hack-mobile.git`
 - `chmod +x run.py`
 - `python run.py`
+
+- ### unlimited facebook ids cloning real time
+- ### only ok ids
+- # enjoy bro
